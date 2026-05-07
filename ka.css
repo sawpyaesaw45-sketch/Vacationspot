@@ -1,0 +1,1114 @@
+.ka{
+    padding-left: 50px;
+}
+.ka h1{
+    padding-top: 5%;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ka p{
+    font-size: 20px;
+    font-weight: bold;
+}
+/*.ba{
+    border-radius: 20px;
+    border-color:blueviolet ;
+    border-style: solid;
+    font-size: 40px;
+    display: flex; 
+    flex-direction: row;
+    width: 100%;   
+    gap: 25px;
+}
+.ba h1{
+    font-size: 75px;
+}
+.ba a{
+    text-decoration: none;
+}*/
+
+p{
+    justify-items: auto;
+}
+body{
+    background:linear-gradient(#d2d5d6,#f5d1d8,#efc3b4,#e5bae5);
+}
+button{
+    border-radius: 8px;
+    background: palegoldenrod   ;
+}
+.div{
+    margin-top: 20px;
+    margin-left: 0px;
+    height: 450px;
+    width: 850px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: slider 35s linear infinite;
+}
+@keyframes slider{
+    0%{ 
+       background-image:url(Pic/Beach/Chaung/Ch1.jpg) ;                
+    }
+    10%{
+        background-image:url(Pic/Beach/Chaung/Ch2.jpg);
+    }
+    20%{
+        background-image:url(Pic/Beach/Chaung/CH3.jpg) ;
+    }
+    30%{
+        background-image: url(Pic/Beach/Chaung/Ch4.jpg);
+    }
+    40%{
+        background-image: url(Pic/Beach/Chaung/Ch5.jpg);
+    }
+    50%{
+        background-image: url(Pic/Beach/Chaung/Ch6.jpg);
+    }
+    60%{
+        background-image: url(Pic/Beach/Chaung/Ch7.jpg);
+    }
+    70%{
+        background-image: url(Pic/Beach/Chaung/Ch8.jpg);
+    }
+    80%{
+        background-image: url(Pic/Beach/Chaung/Ch9.jpg);
+    }
+    90%{
+        background-image: url(Pic/Beach/Chaung/Ch10.jpg);
+    }
+    100%{
+        background-image: url(Pic/Beach/Chaung/Ch1.jpg);
+    }
+}
+video{
+    height: 500px;
+    left: 0px;;
+    position: relative;
+}
+.ngwe{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: ngwe 35s linear infinite;
+    position: relative;;
+}
+@keyframes ngwe{
+    0%{ 
+       background-image:url(Pic/Beach/Ngwe/Ng2.webp) ;                
+    }
+    10%{
+        background-image:url(Pic/Beach/Ngwe/Ng3.jpg);
+    }
+    20%{
+        background-image:url(Pic/Beach/Ngwe/Ng4.jpg) ;
+    }
+    30%{
+        background-image: url(Pic/Beach/Ngwe/Ng5.jpeg);
+    }
+    40%{
+        background-image: url(Pic/Beach/Ngwe/Ng6.jpg);
+    }
+    50%{
+        background-image: url(Pic/Beach/Ngwe/Ng7.jpg);
+    }
+    60%{
+        background-image: url(Pic/Beach/Ngwe/Ng8.jpg);
+    }
+    70%{
+        background-image: url(Pic/Beach/Ngwe/Ng9.webp);
+    }
+    80%{
+        background-image: url(Pic/Beach/Ngwe/Ng10.jpg);
+    }
+    90%{
+        background-image: url(Pic/Beach/Ngwe/Ng11.jpg);
+    }
+    100%{
+        background-image: url(Pic/Beach/Ngwe/Ng2.webp);
+    }
+}
+.ngapali{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: ngapali 35s linear infinite;
+}
+@keyframes ngapali{
+    0%{ 
+       background-image:url(Pic/Beach/Napali/Np2.jpg) ;                
+    }
+    10%{
+        background-image:url(Pic/Beach/Napali/Np3.jpg);
+    }
+    20%{
+        background-image:url(Pic/Beach/Napali/Np4.jpg) ;
+    }
+    30%{
+        background-image: url(Pic/Beach/Napali/Np5.jpg);
+    }
+    40%{
+        background-image: url(Pic/Beach/Napali/Np6.jpg);
+    }
+    50%{
+        background-image: url(Pic/Beach/Napali/Np7.jpg);
+    }
+    60%{
+        background-image: url(Pic/Beach/Napali/Np8.webp);
+    }
+    70%{
+        background-image: url(Pic/Beach/Napali/Np9.jpg);
+    }
+    80%{
+        background-image: url(Pic/Beach/Napali/Np10.jpg);
+    }
+    90%{
+        background-image: url(Pic/Beach/Napali/Np11.jpg);
+    }
+    100%{
+        background-image: url(Pic/Beach/Napali/Np2.jpg);
+    }
+}
+.maung{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: maung 35s linear infinite;
+}
+@keyframes maung{
+    0%{ 
+       background-image:url(Pic/Beach/Maung/Ma1.jpg) ;                
+    }
+    10%{
+        background-image:url(Pic/Beach/Maung/Ma2.webp);
+    }
+    20%{
+        background-image:url(Pic/Beach/Maung/Ma3.jpg) ;
+    }
+    30%{
+        background-image: url(Pic/Beach/Maung/Ma4.jpg);
+    }
+    40%{
+        background-image: url(Pic/Beach/Maung/Ma5.jpg);
+    }
+    50%{
+        background-image: url(Pic/Beach/Maung/Ma6.jpg);
+    }
+    60%{
+        background-image: url(Pic/Beach/Maung/Ma7.jpg);
+    }
+    70%{
+        background-image: url(Pic/Beach/Maung/Ma8.jpg);
+    }
+    80%{
+        background-image: url(Pic/Beach/Maung/Ma10.webp);
+    }
+    90%{
+        background-image: url(Pic/Beach/Maung/Ma11.webp);
+    }
+    100%{
+        background-image: url(Pic/Beach/Maung/Ma1.jpg);
+    }
+}    
+.Kanthaya{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: Kanthaya 35s linear infinite;
+}
+@keyframes Kanthaya{
+    0%{ 
+       background-image:url(Pic/Beach/Kan/Ka1.jpg) ;                
+    }
+    10%{
+        background-image:url(Pic/Beach/Kan/Ka2.jpg);
+    }
+    20%{
+        background-image:url(Pic/Beach/Kan/Ka3.webp) ;
+    }
+    30%{
+        background-image: url(Pic/Beach/Kan/Ka4.jpg);
+    }
+    40%{
+        background-image: url(Pic/Beach/Kan/Ka5.jpg);
+    }
+    50%{
+        background-image: url(Pic/Beach/Kan/Ka6.jpg);
+    }
+    60%{
+        background-image: url(Pic/Beach/Kan/Ka8.jpg);
+    }
+    70%{
+        background-image: url(Pic/Beach/Kan/Ka9.jpg);
+    }
+    80%{
+        background-image: url(Pic/Beach/Kan/Ka10.jpg);
+    }
+    90%{
+        background-image: url(Pic/Beach/Kan/Ka11.webp);
+    }
+    100%{
+        background-image: url(Pic/Beach/Kan/Ka1.jpg);
+    }
+}  
+.Setse{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: Setse 35s linear infinite;
+}
+@keyframes Setse{
+    0%{ 
+       background-image:url(Pic/Beach/Setsae/Set1.jpg) ;                
+    }
+    25%{
+        background-image:url(Pic/Beach/Setsae/Set2.jpg);
+    }
+    50%{
+        background-image:url(Pic/Beach/Setsae/Set3.jpg) ;
+    }
+    75%{
+        background-image: url(Pic/Beach/Setsae/Set5.jpg);
+    }
+    100%{
+        background-image: url(Pic/Beach/Setsae/Set1.jpg);
+    }
+}      
+.dat{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: dat 15s linear infinite;
+}
+@keyframes dat{
+    0%{ 
+       background-image:url(Pic/Waterfall/Dat/Dat1.jpg) ;                
+    }
+    25%{
+        background-image:url(Pic/Waterfall/Dat/Dat2.jpg);
+    }
+    50%{
+        background-image:url(Pic/Waterfall/Dat/Dat3.jpg) ;
+    }
+    75%{
+        background-image: url(Pic/Waterfall/Dat/Dat4.jpg);
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Dat/Dat1.jpg);
+    }
+}      
+.dee{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: dee 15s linear infinite;
+}
+@keyframes dee{
+    0%{ 
+       background-image:url(Pic/Waterfall/Dee/Dee1.jpg) ;                
+    }
+    25%{
+        background-image:url(Pic/Waterfall/Dee/Dee2.jpg);
+    }
+    50%{
+        background-image:url(Pic/Waterfall/Dee/Dee3.jpg) ;
+    }
+    75%{
+        background-image: url(Pic/Waterfall/Dee/Dee4.jpg);
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Dee/Dee1.jpg);
+    }
+}      
+.haipa{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: haipa 20s linear infinite;
+}
+@keyframes haipa{
+    0%{ 
+       background-image:url(Pic/Waterfall/Ha/Haipa1.jpg) ;                
+    }
+    50%{
+        background-image:url(Pic/Waterfall/Ha/Haipa2.jpg) ;
+    }
+    75%{
+        background-image: url(Pic/Waterfall/Ha/Haipa3.jpg);
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Ha/Haipa1.jpg);
+    }
+}      
+.kyon{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: kyon 25s linear infinite;
+}
+@keyframes kyon{
+    0%{ 
+       background-image:url(Pic/Waterfall/Kyone/Kyon1.jpg) ;                
+    }
+    25%{
+        background-image: url(Pic/Waterfall/Kyone/Kyon3.jpg);
+    }
+    50%{
+        background-image:url(Pic/Waterfall/Kyone/Kyon2.jpg) ;
+    }
+    75%{
+        background-image: url(Pic/Waterfall/Kyone/Kyon4.jpg);
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Kyone/Kyon1.jpg);
+    }
+}      
+.law{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: law 25s linear infinite;
+}
+@keyframes law{
+    0%{ 
+       background-image:url(Pic/Waterfall/Law/Law1.jpg) ;                
+    }
+    25%{
+        background-image: url(Pic/Waterfall/Law/Law2.jpg);
+    }
+    50%{
+        background-image:url(Pic/Waterfall/Law/Law3.webp) ;
+    }
+    75%{
+        background-image: url(Pic/Waterfall/Law/law4.jpg);
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Law/Law1.jpg);
+    }
+}      
+.zin{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: zin 25s linear infinite;
+}
+@keyframes zin{
+    0%{ 
+       background-image:url(Pic/Waterfall/Zin/Zin1.jpg) ;                
+    }
+    25%{
+        background-image: url(Pic/Waterfall/Zin/Zin2.jpg);
+    }
+    50%{
+        background-image:url(Pic/Waterfall/Zin/Zin3.webp) ;
+    }
+    75%{
+        background-image: url(Pic/Waterfall/Zin/Zin2.jpg);
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Zin/Zin1.jpg);
+    }
+}      
+.ind{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: ind 30s linear infinite;
+}
+@keyframes ind{
+    0%{ 
+       background-image:url(Pic/Lake/Ind/ind1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Lake/Ind/Ind2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Lake/Ind/Ind3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Lake/Ind/Ind4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Lake/Ind/Ind5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Lake/Ind/ind1.jpg);
+    }
+} 
+.inle{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: inle 25s linear infinite;
+}
+@keyframes inle{
+    0%{ 
+       background-image:url(Pic/Lake/Inle/Inle1.jpg) ;                
+    }
+    10%{
+        background-image:url(Pic/Lake/Inle/Inle2.jpg);
+    }
+    20%{
+        background-image:url(Pic/Lake/Inle/Inle3.jpg) ;
+    }
+    30%{
+        background-image: url(Pic/Lake/Inle/Inle4.jpg);
+    }
+    40%{
+        background-image: url(Pic/Lake/Inle/Inle5.jpg);
+    }
+    50%{
+        background-image: url(Pic/Lake/Inle/Inle6.jpg);
+    }
+    60%{
+        background-image: url(Pic/Lake/Inle/Inle7.jpg);
+    }
+    70%{
+        background-image: url(Pic/Lake/Inle/Inle8.webp);
+    }
+    80%{
+        background-image: url(Pic/Lake/Inle/Inle10.jpg);
+    }
+    90%{
+        background-image: url(Pic/Lake/Inle/Inle11.jpg);
+    }
+    100%{
+        background-image: url(Pic/Lake/Inle/Inle1.jpg);
+    }
+}
+.rih{
+    margin-top: 10px;
+    margin-left: 0px;
+    height: 500px;
+    width: 900px;
+    background-size: 100% 100%;
+    box-shadow: 20px 20px 10px grey;
+    animation: rih 25s linear infinite;
+}
+@keyframes rih{
+    0%{ 
+       background-image:url(Pic/Lake/Rih/Rih1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Lake/Rih/Rih2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Lake/Rih/Rih3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Lake/Rih/Rih4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Lake/Rih/Rih5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Lake/Rih/Rih1.jpg);
+    }
+}
+/*hotel*/
+.G{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: G 25s linear infinite;
+}
+@keyframes G{
+    0%{ 
+       background-image:url(Pic/Beach/Chaung/Hotel/G1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Chaung/Hotel/G2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Chaung/Hotel/G3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Chaung/Hotel/G4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Chaung/Hotel/G5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Chaung/Hotel/G1.jpg);
+    }
+} 
+.H{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: H 25s linear infinite;
+}
+@keyframes H{
+    0%{ 
+       background-image:url(Pic/Beach/Chaung/Hotel/H1.webp) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Chaung/Hotel/H2.webp);
+    }
+    40%{
+        background-image:url(Pic/Beach/Chaung/Hotel/H3.webp) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Chaung/Hotel/H4.webp);
+    }
+    80%{
+        background-image:url(Pic/Beach/Chaung/Hotel/H5.webp) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Chaung/Hotel/H1.webp);
+    }
+}
+.A{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: A 25s linear infinite;
+}
+@keyframes A{
+    0%{ 
+       background-image:url(Pic/Beach/Chaung/Hotel/A1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Chaung/Hotel/A2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Chaung/Hotel/A3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Chaung/Hotel/A4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Chaung/Hotel/A5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Chaung/Hotel/A1.jpg);
+    }
+}
+.aph{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: aph 25s linear infinite;
+}
+@keyframes aph{
+    0%{ 
+       background-image:url(Pic/Beach/Ngwe/ngwehotel/aph1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/aph2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Ngwe/ngwehotel/aph3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/aph4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Ngwe/ngwehotel/aph5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/aph1.jpg);
+    }
+}
+.eh{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: eh 25s linear infinite;
+}
+@keyframes eh{
+    0%{ 
+       background-image:url(Pic/Beach/Ngwe/ngwehotel/eh1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/eh2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Ngwe/ngwehotel/eh3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/eh4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Ngwe/ngwehotel/eh5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/eh1.jpg);
+    }
+}
+.nh{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: nh 25s linear infinite;
+}
+@keyframes nh{
+    0%{ 
+       background-image:url(Pic/Beach/Ngwe/ngwehotel/nh1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/nh2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Ngwe/ngwehotel/nh3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/nh4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Ngwe/ngwehotel/nh5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Ngwe/ngwehotel/nh1.jpg);
+    }
+}
+.anh{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: anh 20s linear infinite;
+}
+@keyframes anh{
+    0%{ 
+       background-image:url(Pic/Beach/Napali/ngapalihotel/nah1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nah2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Napali/ngapalihotel/nah3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nah4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Napali/ngapalihotel/nah5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nah1.jpg);
+    }
+}
+.nzh{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: nzh 20s linear infinite;
+}
+@keyframes nzh{
+    0%{ 
+       background-image:url(Pic/Beach/Napali/ngapalihotel/nzh1.jpeg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nzh1.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Napali/ngapalihotel/nzh2.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nzh3.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Napali/ngapalihotel/nzh4.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nzh1.jpeg);
+    }
+}
+.nyh{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: nyh 20s linear infinite;
+}
+@keyframes nyh{
+    0%{ 
+       background-image:url(Pic/Beach/Napali/ngapalihotel/nyh1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nyh2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Napali/ngapalihotel/nyh3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nyh4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Napali/ngapalihotel/nyh5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Napali/ngapalihotel/nyh1.jpg);
+    }
+}
+.GG{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: GG 20s linear infinite;
+}
+@keyframes GG{
+    0%{ 
+       background-image:url(Pic/Beach/Maung/Hotel/GG1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Maung/Hotel/GG2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Maung/Hotel/GG3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Maung/Hotel/GG4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Maung/Hotel/GG5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Maung/Hotel/GG1.jpg);
+    }
+}
+
+.HD{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: HD 20s linear infinite;
+}
+@keyframes HD{
+    0%{ 
+       background-image:url(Pic/Beach/Maung/Hotel/HD1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Maung/Hotel/HD2.JPG);
+    }
+    40%{
+        background-image:url(Pic/Beach/Maung/Hotel/HD4.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Maung/Hotel/HD3.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Maung/Hotel/HD5.webp) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Maung/Hotel/HD1.jpg);
+    }
+}
+.ZH{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: ZH 20s linear infinite;
+}
+@keyframes ZH{
+    0%{ 
+       background-image:url(Pic/Beach/Maung/Hotel/ZH1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Beach/Maung/Hotel/ZH2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Beach/Maung/Hotel/ZH3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Beach/Maung/Hotel/ZH4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Beach/Maung/Hotel/ZH5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Beach/Maung/Hotel/ZH1.jpg);
+    }
+}
+.SI{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: SI 20s linear infinite;
+}
+@keyframes SI{
+    0%{ 
+       background-image:url(Pic/Lake/Inle/Hotel/SI1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Lake/Inle/Hotel/SI2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Lake/Inle/Hotel/SI3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Lake/Inle/Hotel/SI4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Lake/Inle/Hotel/SI5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Lake/Inle/Hotel/SI1.jpg);
+    }
+}
+.KMA{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: KMA 20s linear infinite;
+}
+@keyframes KMA{
+    0%{ 
+       background-image:url(Pic/Lake/Inle/Hotel/KMA1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Lake/Inle/Hotel/KMA2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Lake/Inle/Hotel/KMA3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Lake/Inle/Hotel/KMA4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Lake/Inle/Hotel/KMA5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Lake/Inle/Hotel/KMA1.jpg);
+    }
+}
+.MB{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: MB 20s linear infinite;
+}
+@keyframes MB{
+    0%{ 
+       background-image:url(Pic/Waterfall/Dee/Hotel/MB1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Waterfall/Dee/Hotel/MB2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Waterfall/Dee/Hotel/MB3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Waterfall/Dee/Hotel/MB4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Waterfall/Dee/Hotel/MB5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Dee/Hotel/MB1.jpg);
+    }
+}
+.YCH{
+    height: 300px;
+    width: 400px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    animation: YCH 20s linear infinite;
+}
+@keyframes YCH{
+    0%{ 
+       background-image:url(Pic/Waterfall/Dee/Hotel/YCH1.jpg) ;                
+    }
+    20%{
+        background-image: url(Pic/Waterfall/Dee/Hotel/YCH2.jpg);
+    }
+    40%{
+        background-image:url(Pic/Waterfall/Dee/Hotel/YCH3.jpg) ;
+    }
+    60%{
+        background-image: url(Pic/Waterfall/Dee/Hotel/YCH4.jpg);
+    }
+    80%{
+        background-image:url(Pic/Waterfall/Dee/Hotel/YCH5.jpg) ;
+    }
+    100%{
+        background-image: url(Pic/Waterfall/Dee/Hotel/YCH1.jpg);
+    }
+}
+/*translate*/
+.container{
+    position: relative;
+    max-width: 600px;      
+    color: #555;
+}
+.en{
+    color: #333;
+}
+.my{
+    color: #00a1ff;
+}
+.container .contents{
+    display: none;
+    margin-top: 20px;
+}
+.container .content .contentEnglish{
+    display: block;
+}
+.check{
+    position: relative;
+    width: 50px;
+}
+.check::before{
+    position: absolute;
+    content: '';
+    width: 50px;
+    height: 25px;
+    background: #333;
+    border-radius: 25px;
+}
+.check:checked::before{
+    background: #00a1ff;
+}
+.check::after{
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    border-radius: 25px;
+    transition: 0.25s;
+    border: 2px solid #333;
+    box-sizing: border-box;
+    left: 0px;
+}
+.check:checked::after{
+    left: 25px;
+    border: 2px solid #00a2ff;
+}
+.check:checked~ .content.contentEnglish{
+    display: none;
+}
+.check:checked~ .contents.contentMyanmar{
+    display: block;
+}
+/*nav*/
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 85%;
+    height: 50px;
+    padding: 1.3rem 10%;
+    display: flex;
+    background: #1679e3;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.logo{
+    font-size: 45px;
+    color: rgb(241, 246, 247);
+    text-decoration: none;
+    font-weight: 700;
+}
+.navbar a{
+    font-size: 35px;
+    color: rgb(241, 245, 246);
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+    transition: .3s;
+}
+.navbar a:hover{
+    color: rgb(224, 249, 5);
+}
+#check{
+    display: none;
+}
+.icon{
+    font-size: 50px;
+    position: absolute;
+    right: 5%;
+    color: rgb(1, 181, 246);
+    cursor: pointer;
+    display: none;
+}
+/*hotel*/
+.Hotels .Main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;  
+}
+.HP {
+  border-radius: 20px;
+  box-shadow: 0 2px 10px rgba(19, 19, 19, 0.1);
+  max-width: 400px;
+  overflow: hidden;
+  text-align: left;
+  transition-duration: 1s;
+  cursor: pointer;
+  height: 500px;
+}
+.HP h3 {
+  margin-left: 12px;
+  font-size: 35px;
+  margin-top: 10px;
+}
+.HN button{
+    background: #490CCC;
+    border: none;
+    padding: 8px 12px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    margin-left: 12px;
+}
+a{
+  color: #f7f7f7;
+  text-decoration: none;
+}
